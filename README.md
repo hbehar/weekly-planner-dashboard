@@ -3,18 +3,20 @@
 # Git conventions
 
 ### Commits
+
 Only use these prefixes:
+
 - add, remove, update, refactor, fix
-Add detailed commit body as much as possible.
-Squash all commits into one when merging branches. In picked commit add prefix to close issue like closes, fixes.
+  Add detailed commit body as much as possible.
+  Squash all commits into one when merging branches. In picked commit add prefix to close issue like closes, fixes.
 
 ### Branchs
-Create a new branch for each feature and use feature/ prefix for all feature branches. 
-Guard master branch and test changes in development branch before merging to master.
+
+Create a new branch for each feature and use feature/ prefix for all feature branches.
 
 ### Issues
-Open an issue for each feature and implementation.
 
+Open an issue for each feature and implementation.
 
 ## Development server
 
